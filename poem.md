@@ -45,4 +45,4 @@ The Forest Reverie
     Sweet flowers, ere long,
     The rare and radiant flowers of song!
     
-    [Public Domain Poetry] (http://www.public-domain-poetry.com/abijah-m-ide/forest-reverie-6551)
+    Copied from [Public Domain Poetry] (http://www.public-domain-poetry.com/abijah-m-ide/forest-reverie-6551).
