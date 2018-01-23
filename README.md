@@ -44,3 +44,5 @@ The Forest Reverie
     Its ashes, whence will spring and grow
     Sweet flowers, ere long,
     The rare and radiant flowers of song!
+    
+    http://www.public-domain-poetry.com/abijah-m-ide/forest-reverie-6551
