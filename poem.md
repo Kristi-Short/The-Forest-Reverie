@@ -1,6 +1,6 @@
 # The-Forest-Reverie
 WATS3000 first repo
-<b>The Forest Reverie</b>
+The Forest Reverie
 
     By Abijah M. Ide
 
